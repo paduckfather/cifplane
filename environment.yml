@@ -1,0 +1,12 @@
+name: cifplane
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pymatgen
+  - spglib
+  - ase
+  - numpy
+  - scipy
+  - pandas
